@@ -1,0 +1,49 @@
+leftnav:
+- identifier: c4fd6fd6-1378-ecf4-a56a-b73c6b455e18
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 0f11e3a8-8575-7742-68b1-9fbbe9ada2d2
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: a6eb2151-6f41-806d-94ff-dc83eb5f4337
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: dc102ab9-fad7-5fe0-6da4-e71c66aab8ef
+  name: Exams
+  pageRef: /pages/exams
+  weight: 40
+- identifier: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
+  name: Thermodynamics and Propulsion
+  pageRef: /pages/thermo-propulsion/
+  weight: 50
+- identifier: 85c1b0de-227d-e38d-9a55-dc7008c03de7
+  name: Signals and Systems
+  pageRef: /pages/signals-systems
+  weight: 60
+- identifier: b640d5c4-9375-61ab-448e-c8a1ec804a97
+  name: Materials and Structures
+  pageRef: /pages/materials-structures
+  weight: 70
+- identifier: 6a5f667b-6fca-f068-0ec8-b203122154de
+  name: Fluid Mechanics
+  pageRef: /pages/fluid-mechanics
+  weight: 80
+- identifier: 34c4c991-4bb5-d251-50ee-34713d7b7e3e
+  name: Computers and Programming
+  pageRef: /pages/comps-programming
+  weight: 90
+- identifier: 87e8f47c-351c-ccd4-50e9-b5e03c5bbee2
+  name: Systems/Labs 04
+  pageRef: /video_galleries/systems-labs-04
+  weight: 100
+- identifier: 1f88d71a-9054-37a1-8163-daf60a1dd696
+  name: Systems/Labs 06
+  pageRef: /pages/systems-labs-06
+  weight: 110
+- identifier: 327c8fbc-0586-3637-4667-dc2437a7f1eb
+  name: Unified Concepts
+  pageRef: /pages/unified-concepts
+  weight: 120
