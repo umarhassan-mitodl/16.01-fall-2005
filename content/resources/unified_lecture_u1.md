@@ -5,6 +5,8 @@ description: The introductory lecture for this course. The structure of the cour
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/71194e1acb081bf67cd013b4a9271b16_unified_lecture_u1.pdf
 file_size: 436373
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

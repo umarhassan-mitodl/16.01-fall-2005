@@ -4,6 +4,8 @@ description: Problem set regarding Signals and Systems.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9f35a04270bdec5f1a2c0e4f5a077809_s20_ps14_spring04.pdf
 file_size: 19792
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

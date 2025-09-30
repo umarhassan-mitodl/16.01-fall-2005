@@ -4,6 +4,8 @@ description: Problem set.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b69d40eb13135dbe78f98e57728742a4_s04_ps05_fall03.pdf
 file_size: 22370
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This file contains the notes for motor/propeller characterization, 
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/369e18b25007e37a6e5eace7c0a0745e_spl3.pdf
 file_size: 101815
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

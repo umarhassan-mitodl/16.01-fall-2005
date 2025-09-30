@@ -4,6 +4,8 @@ description: This resource based on truss deflection.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/deda963fe45a0357bdc91aa3fd73d6e6_zm9.pdf
 file_size: 1192921
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -25,7 +25,7 @@ Feldman, Michael, and Elliot Koffman. *Ada 95: Problem Solving and Program Desig
 
 Brookshear, J. Glenn. *Computer Science: An Overview.* 7th ed. Reading, MA: Addison Wesley, 2002. ISBN: 0201781301.
 
-{{% resource_link "91fb033e-d216-4228-8a6a-63c958d38a3f" "Additional Resources" %}}
+[Additional Resources](https://ocw-studio.odl.mit.edu/sites/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/type/page/edit/34c4c991-4bb5-d251-50ee-34713d7b7e3e/?offset=10#BelowTable)
 
 {{% resource_link "c4fd6fd6-1378-ecf4-a56a-b73c6b455e18" "Table Organization" "#Table_organization" %}}
 
@@ -163,7 +163,7 @@ Machine Language ({{% resource_link "bad38792-bf94-5c7b-2dd0-592fd80e285a" "PDF"
 
 Machine Language Supplement ({{% resource_link "87885aa1-2753-853b-4f25-4fc24a35e504" "PDF" %}})
 
-{{% resource_link "f6781e46-784a-46ab-8d0f-44c8c0f039ea" "The Simple Simulator" %}}
+[The Simple Simulator](http://www.anne-gert.nl/projects/simpsim/)
 
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "a9a9e218-fa03-a55e-40d9-022712da8d7c" "PDF" %}})
@@ -307,7 +307,7 @@ Ada: Matrices ({{% resource_link "ca8f1e6f-a0aa-7678-3871-9e029fbf047e" "PDF" %}
 
 Matrix Supplement ({{% resource_link "6b6b0cfa-844d-47b2-0f91-a8a58ef91eaa" "PDF" %}})
 
-{{% resource_link "abffe462-7556-421e-9ce0-be79c5bfc7d7" "Ada95 Matrix Package" %}}
+[Ada95 Matrix Package](http://stackoverflow.com/questions/3193180/ada-matrix-package)
 
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "20e266c9-404f-5f22-3741-82765c841928" "PDF" %}})
@@ -371,7 +371,7 @@ Ada: Overview ({{% resource_link "a4f41805-0841-f274-4396-97ca41df6b45" "PDF" %}
 
 ADA Tutorial Supplement
 
-{{% resource_link "7796b733-516b-410f-8e77-0394abc9a47b" "Cots Journal Online" %}}
+[Cots Journal Online](http://www.cotsjournalonline.com/)
 
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "57a87573-ca48-1aed-b5b0-6ef877cd324f" "PDF" %}})
@@ -599,7 +599,7 @@ Solution C14 ({{% resource_link "8f80e7ce-ebe5-6ba0-490a-1af169ff8d16" "PDF" %}}
 C15
 {{< tdclose >}}{{< tdopen >}}
 
-Guest Lecturer: {{% resource_link "06158f8e-4b88-487c-92a3-93cddfe0523b" "Prof. Robert Dewar" %}}
+Guest Lecturer: [Prof. Robert Dewar](https://en.wikipedia.org/wiki/Robert_Dewar)
 
 University of Chicago ({{% resource_link "6b7aae7d-c07d-c4c4-a512-7be8483ecfc9" "PDF" %}}) (Courtesy of Prof. Robert Dewar. Used with permission.)
 
@@ -743,24 +743,24 @@ GNAT installation instructions ({{% resource_link "8c721b59-1e17-f836-8d6a-2a25f
 
 AdaGide instructions ({{% resource_link "310f3cca-615e-cfe2-007d-40c425e90b07" "PDF" %}})
 
-The Brookshear {{% resource_link "f6781e46-784a-46ab-8d0f-44c8c0f039ea" "Simple Simulator" %}} can be downloaded from the University of Twente.
+The Brookshear [Simple Simulator](http://www.anne-gert.nl/projects/simpsim/) can be downloaded from the University of Twente.
 
 ### Related ADA Resources
 
-The Ada 95 {{% resource_link "9f3bc06e-a9d5-4b8c-8aca-4850205db882" "Rationale" %}}
+The Ada 95 [Rationale](http://www.adahome.com/LRM/95/Rationale/rat95html/rat95-contents.html)
 
-The Ada 95 {{% resource_link "d6b84fbc-4d17-40ae-a542-3fae6dd553a5" "Language Reference Manual" %}}
+The Ada 95 [Language Reference Manual](http://www.adahome.com/rm95/)
 
-The Ada {{% resource_link "579a3abc-3703-4dea-8c32-9b9080f8412e" "Style Guide" %}}
+The Ada [Style Guide](http://en.wikibooks.org/wiki/Ada_Style_Guide)
 
-GNAT {{% resource_link "47226b94-23ac-43af-b1ea-c88bb5f57238" "Reference Manual" %}}
+GNAT [Reference Manual](http://gcc.gnu.org/onlinedocs/gnat_rm/)
 
-Ada {{% resource_link "2f0c46a8-80f8-4a2e-89cf-3ce3bb12402a" "Information Clearinghouse" %}}
+Ada [Information Clearinghouse](http://www.adaic.com/)
 
-Home of the Brave Ada Programmers - {{% resource_link "9dd92cc7-b6c7-4515-a117-2812f0924065" "HBAP" %}}
+Home of the Brave Ada Programmers - [HBAP](http://www.adahome.com/)
 
-{{% resource_link "790afae2-da8f-4414-9735-6e3dcc3d5a06" "AdaPower" %}}
+[AdaPower](http://www.adapower.com/)
 
-Ada Core Technologies - {{% resource_link "ff17ddd1-d61d-41ac-bbb2-69b8fb82840f" "ACT" %}}
+Ada Core Technologies - [ACT](http://www.gnat.com/)
 
-{{% resource_link "003b3538-c266-4920-a3c9-0e273e3ecca5" "comp.lang.ada" %}}
+[comp.lang.ada](http://groups.google.com/group/comp.lang.ada/topics)

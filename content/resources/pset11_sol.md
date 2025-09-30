@@ -4,6 +4,8 @@ description: Problem set with solutions provided by the professor.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/73addc71d6b4b7f11de4aa0399559fbd_pset11_sol.pdf
 file_size: 66983
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

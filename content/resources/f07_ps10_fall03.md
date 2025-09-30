@@ -4,6 +4,8 @@ description: This resource contains 1 problem on velocity and the pressure diffe
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/201993fecef7a9d3946e2b0d15ef212d_f07_ps10_fall03.pdf
 file_size: 57597
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

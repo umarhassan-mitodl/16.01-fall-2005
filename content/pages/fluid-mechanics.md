@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Fluid Mechanics
@@ -528,7 +530,7 @@ Airfoils: Detailed Look ({{% resource_link eb0b880f-aacd-c1c4-6679-160157ed0f08 
 {{< tdopen >}}
 Anderson. Sections 3.1-3.3.  
   
-{{% resource_link "4eb67229-4a3c-4ff1-a2fb-7176482b3883" "Airfoils and Airflow" %}}
+[Airfoils and Airflow](http://www.av8n.com/how/htm/airfoils.html)
 {{< tdclose >}}
 {{< tdopen >}}
 Problem F20 ({{% resource_link cad0f4a1-6879-8a8b-8a1b-8e2a70789fc4 "PDF" %}})  

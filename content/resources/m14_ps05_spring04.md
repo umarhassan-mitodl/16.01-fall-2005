@@ -5,6 +5,8 @@ description: This resource contains problems based on allowable load, lateral ce
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/20c86f5de9611d6b1c1452bcf176255f_m14_ps05_spring04.pdf
 file_size: 36689
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

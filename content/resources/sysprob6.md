@@ -4,6 +4,8 @@ description: This file contains the system problem based on rover software desig
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/527df5181c6beafec2309cc655845fc5_sysprob6.pdf
 file_size: 233995
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

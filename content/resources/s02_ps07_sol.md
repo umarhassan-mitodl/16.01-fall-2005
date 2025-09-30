@@ -4,6 +4,8 @@ description: Solutions to problem set.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/88a3d81e26aaf30e2f57838c00b92a8c_s02_ps07_sol.pdf
 file_size: 576707
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

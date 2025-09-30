@@ -4,6 +4,8 @@ description: Table with information on putting together a lab report.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/666380d402d821d2660af9752fcb8bc4_frdiarrc.pdf
 file_size: 14263
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

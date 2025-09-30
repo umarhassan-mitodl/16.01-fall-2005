@@ -4,6 +4,8 @@ description: Fluid Mechanics quiz with solutions.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f9fc10d8466750c622436ed27ada3e78_q4f_sol.pdf
 file_size: 66945
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

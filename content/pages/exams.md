@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains the quizzes administered during both the Fall 2005
   and Spring 2006 semesters.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

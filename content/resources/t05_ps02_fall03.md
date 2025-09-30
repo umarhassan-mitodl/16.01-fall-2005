@@ -5,6 +5,8 @@ description: 'Problem set on adiabatic expansion, 2-3: constant volume heat addi
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0c15eca880e6fb7898e674439ac5b313_t05_ps02_fall03.pdf
 file_size: 9332
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

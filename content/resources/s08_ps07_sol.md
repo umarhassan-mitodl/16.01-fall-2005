@@ -4,6 +4,8 @@ description: This resource includes solutions to problem set S8.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2ff4418e0d88974fb07ccd018208c710_s08_ps07_sol.pdf
 file_size: 46573
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

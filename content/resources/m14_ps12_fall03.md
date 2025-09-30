@@ -5,6 +5,8 @@ description: This resource contains problems based on Mohr's circle, principal s
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d528fe354b462e4e070b2bcd468d8ce9_m14_ps12_fall03.pdf
 file_size: 72717
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

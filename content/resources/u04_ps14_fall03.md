@@ -4,6 +4,8 @@ description: ''
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/93ca85f4e82cc3a47bd01ad46b308a8e_u04_ps14_fall03.pdf
 file_size: 6318
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

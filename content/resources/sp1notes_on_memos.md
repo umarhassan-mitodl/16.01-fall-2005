@@ -5,6 +5,8 @@ description: This resource contains information on tutorial on the format for wr
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/242a1abdfbc24fd055ec7d6ecd183bb3_sp1notes_on_memos.pdf
 file_size: 9081
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

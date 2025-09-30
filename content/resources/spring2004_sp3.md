@@ -4,6 +4,8 @@ description: This resource contains information on instructions for systems lab.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/cd615d2e4514de62c9e267efabad6598_spring2004_sp3.pdf
 file_size: 111364
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

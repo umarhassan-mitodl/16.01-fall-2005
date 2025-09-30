@@ -4,6 +4,8 @@ description: Problem set solutions on BOEING 777-200/200IGW.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/78e545b8a0b3b9a2b8af64e4793e43fb_u01_ps01_sol.pdf
 file_size: 26027
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

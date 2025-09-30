@@ -4,6 +4,8 @@ description: Quiz solutions based on KVL,differential equation.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/39ee0f81e6386af9331a317f406440d2_fall_2003_q3s_sol.pdf
 file_size: 115024
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

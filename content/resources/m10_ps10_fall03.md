@@ -5,6 +5,8 @@ description: This resource contains problems based on deflection of a point afte
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/542ace8fb8e14bb5d4fffb6225089e6d_m10_ps10_fall03.pdf
 file_size: 91381
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

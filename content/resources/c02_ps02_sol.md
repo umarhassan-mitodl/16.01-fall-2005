@@ -5,6 +5,8 @@ description: This handout contains solutions to the Problem set C2 based on the 
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/bf7d06b3991647bbe471cf5f122f41a0_c02_ps02_sol.pdf
 file_size: 29485
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

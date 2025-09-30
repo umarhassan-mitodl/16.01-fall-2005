@@ -4,6 +4,8 @@ description: This resource contains information on grading rubric for systems pr
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4f3a07365b4ed76dfe7b90c486821dc0_sp4grading_rubirc.pdf
 file_size: 40576
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

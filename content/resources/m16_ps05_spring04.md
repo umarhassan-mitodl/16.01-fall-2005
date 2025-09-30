@@ -5,6 +5,8 @@ description: This resource contains problems based on engineering stress vs. eng
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e9a5f7bfce4014c62ae46ce0844ce885_m16_ps05_spring04.pdf
 file_size: 71727
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains problems on velocity.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/cad0f4a168798a8b8a1b8e2a70789fc4_f20_ps14_fall03.pdf
 file_size: 46520
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

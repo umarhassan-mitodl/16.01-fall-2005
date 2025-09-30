@@ -5,6 +5,8 @@ description: This handout contains the solutions for Problem set based on truth 
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3619fb4ac134261c024378d60ea89b7a_cp16_ps12_sol.pdf
 file_size: 18244
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

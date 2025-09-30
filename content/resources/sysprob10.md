@@ -5,6 +5,8 @@ description: 'This file contains notes for the topic: Wing Structural Analysis a
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9901c3db7142ec78f5abdd9714488df7_sysprob10.pdf
 file_size: 40676
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

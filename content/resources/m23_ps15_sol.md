@@ -5,6 +5,8 @@ description: This resource provides solutions to problem set on potential energy
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1033748ed8275d24d9d7b17b379adf41_m23_ps15_sol.pdf
 file_size: 35659
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

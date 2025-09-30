@@ -4,6 +4,8 @@ description: Problem set involving questions on RC Circuits.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/17322f96de6f0b37ffb700f002cb67cd_s10_ps08_fall03.pdf
 file_size: 36917
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

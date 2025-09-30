@@ -4,6 +4,8 @@ description: This file contains notes for Flight Power Relations.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/880678ca3fb1307aa73de7a6d073d730_spring_spl1.pdf
 file_size: 74494
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,6 +4,8 @@ description: Unified Engineering Fluids Problems.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8a33d8f4bd769ee082629e1c22a9352f_spring04_pset6.pdf
 file_size: 141629
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: ''
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0fa56e76a89b2fe45b8961875339b502_Slide4.jpeg
 file_size: 41434
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

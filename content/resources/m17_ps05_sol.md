@@ -5,6 +5,8 @@ description: This resource contains solutions to problem set on the Von Mises Yi
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3482ac0163f3ac323483a39e5a414671_m17_ps05_sol.pdf
 file_size: 68116
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains the problem set based on Profili or Xfoil.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8eea4736f6943c2cc26033f70cf02b67_f02_ps01_spring04.pdf
 file_size: 32679
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

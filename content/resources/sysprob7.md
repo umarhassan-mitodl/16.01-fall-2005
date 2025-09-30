@@ -5,6 +5,8 @@ description: 'This file contains the objectives and procedures for the topic: De
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/044bd628056ceec8b7adb93525467c93_sysprob7.pdf
 file_size: 30951
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

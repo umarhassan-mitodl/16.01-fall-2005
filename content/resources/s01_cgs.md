@@ -4,6 +4,8 @@ description: Lecture S1 concept question.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/5c9c9066178d8469d6efb2f3bcb05ccf_s01_cgs.pdf
 file_size: 25773
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

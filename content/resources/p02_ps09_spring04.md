@@ -5,6 +5,8 @@ description: This resource contains problems based on instructive illustration o
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8caa0db1aecea5c145c3e2984e331cc6_p02_ps09_spring04.pdf
 file_size: 14793
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

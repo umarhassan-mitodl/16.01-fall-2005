@@ -5,6 +5,8 @@ description: This resource contains infromation on the topic of Incompressible a
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a3759b2b2de0c983ea8378dbaf396057_f14_fall.pdf
 file_size: 66507
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

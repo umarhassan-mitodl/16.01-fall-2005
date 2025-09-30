@@ -4,6 +4,8 @@ description: This file contains notes for airfoil characterization.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/09d62c2fdbbc932ac0d350b4849551e5_spl7b.pdf
 file_size: 115448
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

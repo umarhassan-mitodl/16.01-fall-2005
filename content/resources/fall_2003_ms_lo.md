@@ -5,6 +5,8 @@ description: This handout contains the learning objectives and measurable outcom
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/469c735f435494d6a4fc45c3e190147b_fall_2003_ms_lo.pdf
 file_size: 12377
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

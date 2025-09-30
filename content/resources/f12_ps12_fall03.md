@@ -4,6 +4,8 @@ description: This resource contains problems related to flows and velocity field
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8b0438eb36331dfb50bc93db25210b7f_f12_ps12_fall03.pdf
 file_size: 28643
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

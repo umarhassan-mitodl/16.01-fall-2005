@@ -4,6 +4,8 @@ description: This resource includes the problem set on laplace transform.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/14a05935c494bcdab72f6dfbd9587640_s07_ps08_spring04.pdf
 file_size: 55799
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

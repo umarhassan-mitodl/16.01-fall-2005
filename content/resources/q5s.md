@@ -4,6 +4,8 @@ description: Quiz problems based on Signals and systems.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/99fddaf30e81f495e8443e7235f14056_q5s.pdf
 file_size: 74692
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

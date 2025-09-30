@@ -5,6 +5,8 @@ description: This file includes problems on truth table for boolean variables, b
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/6d5c9fb15053482ab658627624b84836_pset13_sol_04.pdf
 file_size: 219110
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

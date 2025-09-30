@@ -5,6 +5,8 @@ description: This resource contains handwritten solutions to the given problem s
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1f5d1c3361900bf7295154ac68e668d7_f13_ps04_sol.pdf
 file_size: 35792
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

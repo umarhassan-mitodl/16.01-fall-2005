@@ -6,6 +6,8 @@ description: 'Review questions and answers on how?to?
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/13bfd9b9e11b3facc1b3300940975b43_S9_mud.pdf
 file_size: 128801
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

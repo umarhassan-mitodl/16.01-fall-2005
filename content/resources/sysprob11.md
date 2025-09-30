@@ -4,6 +4,8 @@ description: This file contains the notes for Flight Readiness Check.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3c337ce2083710f56eb05a282494d81e_sysprob11.pdf
 file_size: 25902
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
