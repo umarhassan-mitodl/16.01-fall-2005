@@ -4,8 +4,6 @@ description: This resource contains problems on forces and moments in 2-D.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1f57525a2ba9258fd3182baa92b4cc53_m02_ps07_fall03.pdf
 file_size: 52851
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

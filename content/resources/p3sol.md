@@ -4,8 +4,6 @@ description: Problem set solutions based on conservation of mass and momentum.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4ee5c2efb41af39c1a6366fd83274fe9_P3sol.pdf
 file_size: 36673
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

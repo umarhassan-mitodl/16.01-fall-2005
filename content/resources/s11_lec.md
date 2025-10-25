@@ -4,8 +4,6 @@ description: Handwritten lecture notes on Concept of state and state variables.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7fcc883570a26a9afab51eebe5c5edbb_s11_lec.pdf
 file_size: 57795
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

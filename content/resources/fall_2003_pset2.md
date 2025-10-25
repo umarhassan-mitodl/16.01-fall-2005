@@ -5,8 +5,6 @@ description: This resource contains problems on unified thermodynamics and unifi
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3eda7280c1d20891dd3419bb1350ffba_fall_2003_pset2.pdf
 file_size: 82501
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

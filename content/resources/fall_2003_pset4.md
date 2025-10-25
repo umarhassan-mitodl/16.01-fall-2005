@@ -4,8 +4,6 @@ description: This resource contains problems on unified thermodynamics and ada95
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e276681cf54ce89fa67bad228bf1dd58_fall_2003_pset4.pdf
 file_size: 113684
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

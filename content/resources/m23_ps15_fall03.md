@@ -5,8 +5,6 @@ description: This resource provides a problem set based on potential energy of a
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/28e857dcd2e4f7390d98f695a503d313_m23_ps15_fall03.pdf
 file_size: 109578
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

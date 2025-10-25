@@ -5,8 +5,6 @@ description: This file discusses about what are the steps in the node method, th
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/188228dac72f55ee8e375f5f04164e05_node_loop_meth.pdf
 file_size: 82522
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

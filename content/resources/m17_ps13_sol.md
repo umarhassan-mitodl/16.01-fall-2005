@@ -6,8 +6,6 @@ description: This resource contains solutions to problem set on representing str
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0dcf9a3d2def3b5a5f2fd8245623088a_m17_ps13_sol.pdf
 file_size: 34387
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

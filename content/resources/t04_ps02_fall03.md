@@ -4,8 +4,6 @@ description: Problem set on adiabatic, quasi-static compression,pext-v diagram.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/58af7e28a2df9da8a9220a26a18259dd_t04_ps02_fall03.pdf
 file_size: 10586
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

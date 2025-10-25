@@ -4,8 +4,6 @@ description: Concept questions on Duration of a Signal and Bandwidth of a Signal
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4010581aaf517b6e0b263dd672296f7b_s19_cgs.pdf
 file_size: 34808
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

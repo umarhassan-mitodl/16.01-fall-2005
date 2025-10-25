@@ -4,8 +4,6 @@ description: Handwritten problem set solution.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/101b704a2704aa4d3cdefb6dacfe467c_p03_ps10_sol.pdf
 file_size: 40446
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

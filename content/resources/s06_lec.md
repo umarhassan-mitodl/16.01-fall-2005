@@ -4,8 +4,6 @@ description: Handwritten lecture notes.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3f2c8db5efa10e0b95dbb57e4a7f92ed_s06_lec.pdf
 file_size: 46175
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

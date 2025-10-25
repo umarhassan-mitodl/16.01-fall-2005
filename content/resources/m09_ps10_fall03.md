@@ -5,8 +5,6 @@ description: This resource contains a problem related to determining the deflect
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/486baef6d35b4c30cc4735608640073c_m09_ps10_fall03.pdf
 file_size: 109838
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

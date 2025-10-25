@@ -5,8 +5,6 @@ description: This resource contains infomration on the topics of Lift Prediction
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/5135d829744766818b219bb1903feed4_f18_fall.pdf
 file_size: 292106
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

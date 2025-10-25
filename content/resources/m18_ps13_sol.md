@@ -6,8 +6,6 @@ description: This resource provides solutions to problem set on Young's modulus 
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a2c3f3b18ad4016c6a198f6287803cd8_m18_ps13_sol.pdf
 file_size: 24970
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains review questions and answers based on ideal 
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8073b24f39bd62626ff0202bb8f97e78_mudgm13.pdf
 file_size: 221085
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

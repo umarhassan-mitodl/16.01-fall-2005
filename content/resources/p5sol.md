@@ -4,8 +4,6 @@ description: Problem set based on Flight Mach Number.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8cb665e60f06d8c5c7ec87fe888569ab_P5sol.pdf
 file_size: 20806
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

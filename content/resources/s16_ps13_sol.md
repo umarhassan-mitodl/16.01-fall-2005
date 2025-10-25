@@ -4,8 +4,6 @@ description: Solutions of problem regarding Fourier Transform.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3eccca20b526c76f497c107324d0d503_s16_ps13_sol.pdf
 file_size: 65406
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

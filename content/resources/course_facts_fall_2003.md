@@ -5,8 +5,6 @@ description: This file is an introduction to the course and contains course obje
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/82791bd47d7a576ed19718ee0843b8ed_course_facts_fall_2003.pdf
 file_size: 60881
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: This section contains the calendars for the Fall 2005 and Spring 20
   semesters. The calendars are presented both in PDF format, as well as HTML format.
   Due to the complexity of the calendars, detailed explanations of the course format
   and a calendar key are provided prior to the presentation of the calendars.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

@@ -5,8 +5,6 @@ description: This resource contains problems related to the design of a truss ke
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/cbc1b8d3f886c026eb228ba656276145_m13_ps04_spring04.pdf
 file_size: 110055
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

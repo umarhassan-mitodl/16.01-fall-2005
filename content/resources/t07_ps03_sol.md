@@ -4,8 +4,6 @@ description: This resource contains hand written solution of problem T7.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/de4cf44dae076504ee5250f22787c309_t07_ps03_sol.pdf
 file_size: 433922
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

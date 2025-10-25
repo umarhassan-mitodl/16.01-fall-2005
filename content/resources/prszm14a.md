@@ -4,8 +4,6 @@ description: This resource contains concept questions and answers based on shear
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/809d95e76ca220f92b4c2e9549d2233a_prszm14a.pdf
 file_size: 30499
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

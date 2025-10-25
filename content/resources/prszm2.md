@@ -5,8 +5,6 @@ description: This resource contains concept questions and answers based on force
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7a9d1f25252eb42834aad4550f4f2dc5_prszm2.pdf
 file_size: 54583
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -5,8 +5,6 @@ description: This resource contains infomration on the topics of Flow field pred
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b729a1ccb0cfb7a4a94f1c4b5dd06388_f17_fall.pdf
 file_size: 317131
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

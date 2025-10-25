@@ -9,8 +9,6 @@ description: This file contains the exercise which contains Test a three-dimensi
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/15569ea4c1a5e3d201c368fe044897dc_sysprob5.pdf
 file_size: 327625
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

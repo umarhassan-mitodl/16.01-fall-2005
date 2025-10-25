@@ -5,8 +5,6 @@ description: This resource contains review questions and answers based on moment
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/076a689ffb61593238faf3ff06e3cb31_mudzm7.pdf
 file_size: 73991
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: This file contains notes for Wind Tunnel Testing a 3-D Wings.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/35cc8971325b9d791af2b512f210b799_spr_sysprob2.pdf
 file_size: 65568
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

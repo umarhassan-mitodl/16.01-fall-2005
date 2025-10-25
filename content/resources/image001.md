@@ -4,8 +4,6 @@ description: This resource talks about the feedback on Prof. Waitz's way of teac
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3191b21d0cff6901b7913f2b83f3caef_image001.gif
 file_size: 49135
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

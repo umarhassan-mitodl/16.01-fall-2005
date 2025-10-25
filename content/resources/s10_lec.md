@@ -5,8 +5,6 @@ description: Lecture notes involving example to describe how to solve a linear d
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d5bb533612b2857b8d23a368c5df6699_s10_lec.pdf
 file_size: 99255
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

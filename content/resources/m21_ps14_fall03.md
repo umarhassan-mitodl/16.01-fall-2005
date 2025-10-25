@@ -5,8 +5,6 @@ description: This resource contains a problem set based on Young's modulus for e
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8447288d5a53667fc0aede95a97a0321_m21_ps14_fall03.pdf
 file_size: 102344
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

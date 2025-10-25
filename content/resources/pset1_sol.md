@@ -4,8 +4,6 @@ description: This resource contains problem set with solutions provided by the p
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/5659aea3f9f5a506bc382b21658b7cbf_pset1_sol.pdf
 file_size: 28558
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

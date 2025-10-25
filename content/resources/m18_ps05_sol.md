@@ -4,8 +4,6 @@ description: This resource provides solutions to problem set on damage tolerance
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b8f275902c218873bca3f1d704fb221d_m18_ps05_sol.pdf
 file_size: 21282
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Lecture notes on Slender (one dimensional) Structures.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b05b9c5799b432cc8c3a3503da5656ce_gm1_4_notes.pdf
 file_size: 813543
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
