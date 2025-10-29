@@ -528,7 +528,7 @@ Airfoils: Detailed Look ({{% resource_link eb0b880f-aacd-c1c4-6679-160157ed0f08 
 {{< tdopen >}}
 Anderson. Sections 3.1-3.3.  
   
-[Airfoils and Airflow](http://www.av8n.com/how/htm/airfoils.html)
+{{% resource_link "ff7401e4-9f6b-4713-84c5-c5a4dbec8fbd" "Airfoils and Airflow" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Problem F20 ({{% resource_link cad0f4a1-6879-8a8b-8a1b-8e2a70789fc4 "PDF" %}})  
